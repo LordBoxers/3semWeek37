@@ -1,7 +1,7 @@
 # Week 37 Review
 # Sebastian James Bentley (cph-sb287)
 
-## 01-Mondayt+Tuesday - Fully completed
+## 01-Monday+Tuesday - Fully completed
 * **rest-jpa-devops-startcode**  
 [LINK TO THIS PROJECT](https://github.com/SebastianBentley/Week37Startcode)  
 This project has its own GitHub repository, containing the project for the "Movie" project.
